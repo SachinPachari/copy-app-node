@@ -1,0 +1,12 @@
+{
+  "name": "copy-nodejs",
+  "version": "1.0.0",
+  "description": "A tool for keeping single copy of project in deployment folder(s). To make it simple it just copies the changes into the destination path",
+  "author": "Sachin",
+  "dependencies": {
+    "fs-extra": "^0.30.0",
+    "walk": "^2.3.9"
+  },
+  "license": "UNLICENSED",
+  "private": true
+}

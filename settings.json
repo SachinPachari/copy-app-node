@@ -1,0 +1,13 @@
+{
+     "source":"C:/Users/SachinP/ContactLui/contacts/app/contacts",
+     "destinations":[
+         "C:/Sachin/SVN_Repo/1A_defer_17354/build/debug/lui/app/contacts",
+		 "C:/Users/SachinP/AddressBookLui/public/app/contacts"
+     ],
+    "ignoreFiles": [
+        ".git",
+        ".gitignore",
+        ".jshintrc",
+        "pre-commit"
+    ]
+}
